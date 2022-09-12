@@ -18,7 +18,8 @@ I really like try out a lot of languages and learn about all of them, the langua
 - PHP.
 -
 
-[![cristiangrossano's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristiangrossano)](https://github.com/anuraghazra/github-readme-stats)
+[![cristiangrossano's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristiangrossano)](https://github.com/anuraghazra/github-readme-stats&theme=radical&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiangrossano)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **cristiangrossano/cristiangrossano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
