@@ -3,7 +3,7 @@
 ### About me
 
 I'm cristiangrossano, a 21 years old developer from Italy.  
-Currently Studying IT at _Università degli Studi dell'Insubria_.
+Currently Studying IT at _Università degli Studi dell'Insubria_.  
 I really like new challenges and try out new things.  
 
 ### Skils
