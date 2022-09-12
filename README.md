@@ -11,12 +11,16 @@ I really like try out a lot of languages and learn about all of them, the langua
 
 - Java;
 - Javascript;
-- Python;
 - C;
 - C#;
-- Dart;
 - HTML;
 - PHP.
+-
+
+And I'm learning about:
+
+- Python;
+- Dart.  
 
 [![cristiangrossano's stats](https://github-readme-stats.vercel.app/api?username=cristiangrossano)](https://github.com/anuraghazra/github-readme-stats&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiangrossano)](https://github.com/anuraghazra/github-readme-stats)
