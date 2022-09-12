@@ -15,7 +15,6 @@ I really like try out a lot of languages and learn about all of them, the langua
 - C#;
 - HTML;
 - PHP.
--
 
 And I'm learning about:
 
