@@ -1,7 +1,14 @@
-Attualmente studente al terzo anno del corso di laure in informatica presso l'Università degli Studi dell'Insubria.
+# Hi, I'm Cristian Grossano
 
-Interessato allo sviluppo di applicazioni mobile, attualmente sto studiando flutter.
-
-[![cristiangrossano's stats](https://github-readme-stats.vercel.app/api?username=cristiangrossano)](https://github.com/anuraghazra/github-readme-stats&theme=radical&count_private=true)
+## About Me
+I'm a 22 years old Computer Science student at Università degli Studi dell'Insubria (Italy).  
+I'm interested in Mobile Development
+## My Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiangrossano)](https://github.com/anuraghazra/github-readme-stats)
+
+## Skills
+
+- Java;
+- Javascript;
+- Flutter.
