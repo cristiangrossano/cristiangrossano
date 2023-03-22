@@ -5,5 +5,5 @@ I'm a 22 years old Computer Science student at Università degli Studi dell'Insu
 I'm interested in Mobile Development
 ## My Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiangrossano&hide=cmake,c%2B%2B,swift&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiangrossano&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
