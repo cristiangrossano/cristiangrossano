@@ -1,7 +1,7 @@
 # Hi, I'm Cristian Grossano
 
 ## About Me
-I'm a 22 years old Computer Science student at "[Università degli studi dell'Insubria](https://www.uninsubria.it/)" (Italy).
+I'm a 23 years old Computer Science student at "[Università degli studi dell'Insubria](https://www.uninsubria.it/)" (Italy).
 
 
 ## My Stats
